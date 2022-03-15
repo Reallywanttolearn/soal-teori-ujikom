@@ -16,12 +16,22 @@ Tanggal	:
 
 Durasi	:
 
+
 # Petunjuk
 a.Jawablah pertanyaan di bawah ini pada lembar jawaban yang disediakan 
 
 b.Posisikan alat komunikasi  hp dengan getar pada saat uji berlangsung 
 
-# Pertanyaan :
+# Pertanyaan Lisan :
+
+- Apa yang di maksud dengan array ?
+- perintah apa yang di gunakan untuk instlasi tailwind ?
+- apa fungsi live server ?
+- bagaimana cara untuk menjalankan live server?
+- jelaskan algoritma percabangan dalam memasukan pin atm?
+- fitur apa pada google chrome yang di gunakan untuk debugging?
+
+# Pertanyaan Tertulis :
 
 1.Bagaimana anda melakukan pekerjaan di perusahaan sesuai SOP ?
 
